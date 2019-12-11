@@ -1,4 +1,4 @@
-# Generating-data-provenance-graph-from-IoT-traffic
+# Computing data-provenance graph from IoT traffic
 ### File name and their contents
 - Network_Output_Domain.txt - Network output dictionary 
 - http_payload_txt -  http request output file
